@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comparador de Combustível</string>
+    <string name="calcular">Calcular</string>
+    <string name="preco_gasolina">Preço do litro da Gasolina</string>
+    <string name="preco_etanol">Preço do litro do Etanol</string>
+    <string name="resultado">Resultado será exibido aqui</string>
+</resources>
